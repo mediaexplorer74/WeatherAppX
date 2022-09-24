@@ -18,7 +18,7 @@ If you like this repository you can support [Darle Gheorghe](https://github.com/
 - UWP experimentation;
 - you can change the Light mode / Dark mode (see Settings menu);
 - you can change the unit system from metric to imperial;
-- Cool UI (thanks to [gheorghedarle](https://github.com/gheorghedarle), the developer of original Xamarin-WeatherApp!);
+- Cool multi-platform UI - thanks to [Darle Gheorghe](https://github.com/gheorghedarle);
 - OpenWeather API preset (api key hardcoded, but it has huge limitations... so, please, get your own keys for your purposes for more api stability).
 
 ## Libraries
