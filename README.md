@@ -8,9 +8,6 @@ Using **One Call API** the app displays the current weather, 24 hours and 6 days
 
 You can add new locations and switch between them from the Locations screen. 
 
-If you like this repository you can support [Darle Gheorghe](https://github.com/gheorghedarle), the author of this great solution!
-
-<a href="https://www.buymeacoffee.com/gheorghedarle" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="175"></a>
 
 ## Screenshots
 
